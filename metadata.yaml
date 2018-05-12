@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '39783'
     url: http://www.gutenberg.org/2009/agents/39783
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39005#The-American-Gentleman-s-Guide-to-Politeness-and-Fashionor-Familiar-Letters-to-his-Nephews
 gutenberg_issued: '2012-02-28'
 gutenberg_type: Text
 identifiers:
