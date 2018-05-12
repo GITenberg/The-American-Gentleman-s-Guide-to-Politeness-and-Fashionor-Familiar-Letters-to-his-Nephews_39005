@@ -1,0 +1,29 @@
+_repo: The-American-Gentleman-s-Guide-to-Politeness-and-Fashionor-Familiar-Letters-to-his-Nephews_39005
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Conkling, Margaret C. (Margaret Cockburn)
+    alias: Lunettes, Henry
+    birthdate: 1814
+    deathdate: 1890
+    gutenberg_agent_id: '39783'
+    url: http://www.gutenberg.org/2009/agents/39783
+description: ''
+gutenberg_issued: '2012-02-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39005'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BJ'
+- !lcsh 'Etiquette'
+title: 'The American Gentleman''s Guide to Politeness and Fashion
+
+  or, Familiar Letters to his Nephews'
+url: http://www.gutenberg.org/ebooks/39005
